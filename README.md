@@ -42,6 +42,10 @@ This is a simple todo app built with React using hooks (specifically, `useState`
 
 2. To remove a completed task from the list, simply click the "Done" button next to it. This will remove the task and keep your todo list clean and organized.
 
+## Demo (**Beginner Project)
+
+<img height="400px" src="https://github.com/halith-smh/Simple-React-Todo-App/blob/main/demo.gif" />
+
 ## Contributing
 
 Contributions are welcome! If you find any issues or have suggestions for improvement, please create a new issue or submit a pull request.
