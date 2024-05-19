@@ -53,5 +53,3 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 ## Acknowledgements
 
 - This project was inspired by [ Code Stoic <img width="15px" src="https://www.svgrepo.com/show/13671/youtube.svg" />](https://youtube.com/playlist?list=PLSsAz5wf2lkK_ekd0J__44KG6QoXetZza) .
-
-Feel free to customize the content as needed for your project. Don't forget to update the installation instructions and other sections to reflect the specific details of your app.
